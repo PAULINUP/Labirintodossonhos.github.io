@@ -1,0 +1,22 @@
+/* Todo o CSS que estava na tag style vai aqui */
+:root {
+    --dark-purple: #0a0512;
+    --medium-purple: #1a0b2e;
+    --light-purple: #2d1b4e;
+    --accent-gold: #d4af37;
+    --blood-red: #8b0000;
+    --text-light: #f0e6ff;
+    --text-dim: #b8a9d9;
+    --reality-blue: #1e3a5f;
+    --dream-pink: #8a2be2;
+    --stephen-gray: #3a3a3a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Crimson Text', 'Times New Roman', serif;
+}
+
+/* [Todo o restante do CSS] */
